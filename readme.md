@@ -10,7 +10,7 @@ git clone https://github.com/alanhoff/express-api-demo.git
 cd express-api-demo
 npm install
 node app.js
-``
+```
 
 ### APIs
 
